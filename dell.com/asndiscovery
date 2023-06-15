@@ -1,0 +1,43 @@
+{
+  "asn": 1299,
+  "name": "TWELVE99",
+  "des": "Arelion, f/k/a Telia Carrier",
+  "email": [
+    "abuse@twelve99.net",
+    "support@arelion.com",
+    "peering@twelve99.net",
+    "notify@twelve99.net",
+    "ip-registry@twelve99.net",
+    "routing-registry@twelve99.net"
+  ]
+}
+  "asn": 15395,
+  "name": "RACKSPACE-LON",
+  "des": "Rackspace Ltd.",
+    "abuse@rackspace.com",
+    "hostmaster@rackspace.com",
+    "chris.hansell@rackspace.com"
+  "asn": 30614,
+  "name": "DELL-BLK",
+  "des": "Dell, Inc.",
+    "aengus.waters@dell.com",
+    "colm_anderson@dell.com",
+    "arin_abuse@dell.com",
+    "james.pressley@dell.com"
+  "asn": 3614,
+  "email": []
+  "asn": 701,
+  "name": "UUNET",
+  "des": "Verizon Business",
+    "swipper@verizon.com",
+    "jebaraj.kennet@verizon.com",
+    "kenneth.reeb@verizonwireless.com",
+    "abuse@verizon.net",
+    "dnsadmin@verizon.com",
+    "abuse-mail@verizonbusiness.com",
+    "swipper@verizonbusiness.com"
+  "asn": 702,
+  "asn": null,
+  "name": null,
+  "des": null,
+  "email": null
